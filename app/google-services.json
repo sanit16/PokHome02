@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "157601229281",
+    "firebase_url": "https://pokpak-dde10.firebaseio.com",
+    "project_id": "pokpak-dde10",
+    "storage_bucket": "pokpak-dde10.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:157601229281:android:d729f67bcd2906243acaa0",
+        "android_client_info": {
+          "package_name": "com.example.pok"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "157601229281-7ctdbt5ajek6lep5v72oruh5enk4mbtd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.pok",
+            "certificate_hash": "315f8bd1adccf7f54425004b1d1ae70a66fb980d"
+          }
+        },
+        {
+          "client_id": "157601229281-92uvsp0aud1cddkpaigpb47ffmpah8ki.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOoLfGQ6Xn291bC0Sh0uA04RWQs5BrKtA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "157601229281-92uvsp0aud1cddkpaigpb47ffmpah8ki.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
