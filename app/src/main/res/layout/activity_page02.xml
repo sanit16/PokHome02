@@ -39,6 +39,7 @@
                 ></ImageView>
 
             <Switch
+                android:onClick="switchClick"
                 android:id="@+id/f1sw_a"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
@@ -48,6 +49,7 @@
             </Switch>
 
             <Switch
+                android:onClick="switchClick"
                 android:id="@+id/f1sw_b"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
@@ -56,6 +58,7 @@
 
             </Switch>
             <Switch
+                android:onClick="switchClick"
                 android:id="@+id/f1sw_c"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
@@ -65,6 +68,7 @@
             </Switch>
 
             <Switch
+                android:onClick="switchClick"
                 android:id="@+id/f1sw_d"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
@@ -74,6 +78,7 @@
             </Switch>
 
             <Switch
+                android:onClick="switchClick"
                 android:id="@+id/f1sw_e"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
@@ -83,6 +88,7 @@
             </Switch>
 
             <Switch
+                android:onClick="switchClick"
                 android:id="@+id/f1sw_f"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
@@ -92,6 +98,7 @@
             </Switch>
 
             <Switch
+                android:onClick="switchClick"
                 android:id="@+id/f1sw_g"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
@@ -101,6 +108,7 @@
             </Switch>
 
             <Switch
+                android:onClick="switchClick"
                 android:id="@+id/f1sw_h"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
@@ -110,6 +118,7 @@
             </Switch>
 
             <Switch
+                android:onClick="switchClick"
                 android:id="@+id/f1sw_i"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
@@ -119,6 +128,7 @@
             </Switch>
 
             <Switch
+                android:onClick="switchClick"
                 android:id="@+id/f1sw_j"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
@@ -128,6 +138,7 @@
             </Switch>
 
             <Switch
+                android:onClick="switchClick"
                 android:id="@+id/f1sw_k"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
@@ -137,6 +148,7 @@
             </Switch>
 
             <Switch
+                android:onClick="switchClick"
                 android:id="@+id/f1sw_l"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
